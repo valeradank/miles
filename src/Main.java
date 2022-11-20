@@ -3,7 +3,7 @@ public class Main {
         int price = 1000; // стоимость билета
         int bonusPrice = 20; // колличество рублей за одну милю
         System.out.println(price / bonusPrice );
-        int bonusAmount = (price / bonusPrice);
+        int bonusAmount = (price / bonusPrice); // сумма бонуса
 
 
 
